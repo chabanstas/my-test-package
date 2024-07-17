@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-myconfig-test-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chabanstas/my-test-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chabanstas/my-test-package/issues"
+  },
+  "homepage": "https://github.com/chabanstas/my-test-package#readme",
+  "devDependencies": {
+    "npm": "^10.8.2"
+  }
+}
